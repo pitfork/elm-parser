@@ -1,3 +1,7 @@
+_Forked from [elm/parser](https://github.com/elm/parser) in order to create pull requests_
+
+---
+
 # Parser
 
 Regular expressions are quite confusing and difficult to use. This library provides a coherent alternative that handles more cases and produces clearer code.
